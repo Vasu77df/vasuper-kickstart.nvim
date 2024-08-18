@@ -989,6 +989,8 @@ require('lazy').setup({
         'vimdoc',
         'rust',
         'ron',
+        'ninja',
+        'rst',
       },
       -- Autoinstall languages that are not installed
       auto_install = true,
